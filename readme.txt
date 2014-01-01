@@ -34,7 +34,7 @@ experience for your viewers and also significantly reduces the load on your
 server.
 
 Additionally, the plugin also supports integration with Twitter - if activated,
-the first 139 characters of each live blog entry will be posted to Twitter when
+the first 139 characters of each live blog entry (including permalink to live blog page) will be posted to Twitter when
 they are made.
 
 Using this plugin will give you an advantage over your competitors if you're
@@ -198,6 +198,10 @@ This forum topic (http://wordpress.org/support/topic/ajax-in-subsite) should
 resolve the issue for you.
 
 == Changelog ==
+
+= 1.1 =
+
+Fixed issue with plugin appearing twice in the plugin administration page.
 
 = 1.0 =
 

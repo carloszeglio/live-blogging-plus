@@ -3,14 +3,14 @@
 Plugin Name: Live Blogging Plus
 Plugin URI: http://vidyut.net/downloads/live-blogging-plus/
 Description: Plugin to support automatic live blogging and Twitter updates with link to liveblog.
-Version: 1.0
+Version: 1.1
 Author: Vidyut Kale
 Author URI: http://vidyut.net
 Text-Domain: live-blogging
 
 Based on the <a href="http://wordpress.org/extend/plugins/live-blogging/" target = "_blank">Live Blogging plugin by Chris Northwood</a>. Fixes some outdated code and allows adding links to the live blog in Twitter updates.
 
-Includes fixed files for the Twitter authentication provided by Cheche at http://wordpress.org/support/topic/update-twitteroauth-to-publish-twitter?replies=1.
+Includes <a href="http://wordpress.org/support/topic/update-twitteroauth-to-publish-twitter?replies=1" target="blank">fixed files for the Twitter authentication provided by Cheche</a>.
 
 Details of original plugin: 
 
